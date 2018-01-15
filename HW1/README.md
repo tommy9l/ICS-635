@@ -1,5 +1,10 @@
-Assignment #1 for ICS 635.
+**Assignment #1 for ICS 635**
 
 - - -
 
-I would put the assignment details here, but she didn't upload them yet >.>
+1. Implement perceptron learning algorithm: N inputs **x~i** and labels l~i
+
+* Initialize weight vector **w**
+* While there exist misclassified examples:
+
+** Compute output y~i = $\theta$(**wx_i**)

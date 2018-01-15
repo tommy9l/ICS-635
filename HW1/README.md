@@ -23,15 +23,15 @@
 
 Pseudo Code for perceptron (as I understand):
 
-2. Provide the perceptron with inputs for which there is a known answer
-2. Ask the perceptron to guess an answer
-2. Computer the error.
+1. Provide the perceptron with inputs for which there is a known answer
+1. Ask the perceptron to guess an answer
+1. Computer the error.
     
     * Error = Answer - Guess
 
-2. Adjust all the weights according to the error.
+1. Adjust all the weights according to the error.
 
     * Delta Weight = (Error * input) * learning_rate
     * New Weight = weight  + Delta Weight
     
-2. Return to step 1 and repeat.
+1. Return to step 1 and repeat.

@@ -6,7 +6,7 @@
    * Initialize weight vector **w**
    * While there exist misclassified examples: ⋅⋅
 
-      * Compute y<sub>i</sub> = \theta(**wx<sub>i</sub>**)      
+      * Compute y<sub>i</sub> = θ(**wx<sub>i</sub>**)      
  
       * For each example, update the weights: **w** += c(l<sub>i</sub>-y<sub>i</sub>)**x<sub>i</sub>**
    

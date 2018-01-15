@@ -2,7 +2,7 @@
 
 - - -
 
-1. Implement perceptron learning algorithm: N inputs **x~i** and labels l~i
+1. Implement perceptron learning algorithm: N inputs **x<sub>i</sub>** and labels l<sub>i</sub>
    * Initialize weight vector **w**
    * While there exist misclassified examples: ⋅⋅
 

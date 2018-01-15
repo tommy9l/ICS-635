@@ -9,7 +9,7 @@ Course Work from ICS 635
 * Tommy Lam
 - - -
 
-**5 Total homework assignments**:
+**Five Homework Projects**:
 
 1. Implementing first machine learning code
 1. TBD

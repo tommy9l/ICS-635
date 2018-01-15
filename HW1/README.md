@@ -25,7 +25,7 @@ Pseudo Code for perceptron (as I understand):
 
 1. Provide the perceptron with inputs for which there is a known answer
 1. Ask the perceptron to guess an answer
-1. Computer the error.
+1. Compute the error.
     
     * Error = Answer - Guess
 

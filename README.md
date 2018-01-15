@@ -1,7 +1,7 @@
 # ICS-635
 Course Work from ICS 635
 
-Collaborators: 
+**Collaborators**: 
 
 * Kaimi Kahihikolo
 * Ryan Dorrill
@@ -9,7 +9,7 @@ Collaborators:
 * Tommy Lam
 - - -
 
-5 Total homework assignments:
+**5 Total homework assignments**:
 
 1. Implementing first machine learning code
 1. TBD
@@ -17,4 +17,6 @@ Collaborators:
 1. TBD
 1. TBD
 
-One Final Project
+**One Final Project**
+
+1. TBD

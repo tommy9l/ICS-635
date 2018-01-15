@@ -7,4 +7,4 @@
 * Initialize weight vector **w**
 * While there exist misclassified examples:
 
-** Compute output y~i = $\theta$(**wx_i**)
+  * Compute output y~i = \theta (**wx_i**)

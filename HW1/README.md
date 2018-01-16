@@ -1,6 +1,14 @@
 **Assignment #1 for ICS 635**
 
+See ![Code](Perceptron.py) for current version of the simple Perceptron 
+
+* ![Working Example](output_9_1.png)
+
+* ![Not Working Example](output_10_1.png)
+
 - - -
+
+Notes from class:
 
 1. Implement perceptron learning algorithm: N inputs **x<sub>i</sub>** and labels l<sub>i</sub>
    * Initialize weight vector **w**

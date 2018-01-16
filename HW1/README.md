@@ -2,9 +2,11 @@
 
 See ![Code](Perceptron.py) for current version of the simple Perceptron 
 
-* ![Working Example](output_9_1.png)
+Working Example:
+![](output_9_1.png)
 
-* ![Not Working Example](output_10_1.png)
+Failing Example:
+![](output_10_1.png)
 
 - - -
 

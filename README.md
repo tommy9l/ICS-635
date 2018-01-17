@@ -11,7 +11,7 @@ Course Work from ICS 635
 
 **Five Homework Projects**:
 
-1. Implementing first machine learning code
+1. [Perceptron](https://github.com/kaimibk/ICS-635/tree/master/HW1)
 1. TBD
 1. TBD
 1. TBD
